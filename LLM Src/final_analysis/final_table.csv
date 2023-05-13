@@ -1,0 +1,25 @@
+Model,Temperature,Max Tokens,Aware of Drug's Existance,Drug Detection Error Rate,Correct DBID Rate,Correct Drugs
+gpt-3.5-turbo,0.0,512,Yes,5.0 %,0 %,30.0 %
+gpt-3.5-turbo,0.25,512,Yes,15.0 %,0 %,30.0 %
+gpt-3.5-turbo,0.5,512,Yes,5.0 %,0 %,35.0 %
+gpt-3.5-turbo,0.75,512,No,,,
+gpt-3.5-turbo,1.0,512,No,,,
+gpt-4,0.0,512,Yes,5.0 %,0 %,30.0 %
+gpt-4,0.25,512,Yes,0.0 %,0 %,45.0 %
+gpt-4,0.5,512,Yes,0.0 %,10.0 %,50.0 %
+gpt-4,0.75,512,Yes,5.0 %,0 %,20.0 %
+gpt-4,1.0,512,Yes,10.0 %,5.0 %,35.0 %
+
+
+
+Rank & Score    &   DBID &     Name \\
+14  & 0.95  & DB00915 & Amantadine  \\
+25  & 0.94  & DB00494 & Entacapone\\
+42  & 0.93  & DB00413 & Pramipexole\\
+51  & 0.92  & DB04868 & Nilotinib \\
+66  & 0.91  & DB01367 & Rasagiline \\
+97  &  0.9  & DB00370 & Mirtazapine \\
+147 &  0.88 & DB00190 & Carbidopa \\
+149 &  0.88 & DB00376 & Trihexyphenidyl  \\
+224 &  0.86 & DB06262 & Droxidopa   \\
+300 &  0.84 & DB00909 & Zonisamide \\

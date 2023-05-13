@@ -1,0 +1,790 @@
+,Drug ID,Drug Name,Study Phase,Status,Label
+250,DB11919,6-O-benzylguanine,Phase 1,Investigational,0
+815,DB05196,ACR325,Phase 1,Investigational,1
+762,DB13012,AQX-1125,Phase 1,Investigational,0
+660,DB12210,AZD-6280,Phase 1,Investigational,0
+498,DB12001,Abemaciclib,Phase 1,Approved; Investigational,0
+730,DB12001,Abemaciclib,Phase 1,Approved; Investigational,0
+812,DB05812,Abiraterone,Phase 1,Approved,1
+892,DB00316,Acetaminophen,Phase 1,Approved,1
+761,DB13086,Acoziborole,Phase 1,Investigational,0
+511,DB09278,Activated charcoal,Phase 1,Approved,0
+45,DB00787,Acyclovir,Phase 1,Approved,0
+759,DB08916,Afatinib,Phase 1,Approved,0
+711,DB00041,Aldesleukin,Phase 1,Approved,0
+727,DB05220,Alisertib,Phase 1,Investigational,0
+822,DB00437,Allopurinol,Phase 1,Approved,1
+705,DB12015,Alpelisib,Phase 1,Approved; Investigational,0
+764,DB06742,Ambroxol,Phase 1,Approved; Investigational,0
+739,DB11118,Ammonia,Early Phase 1,Approved,0
+772,DB12180,Apitolisib,Phase 1,Investigational,0
+221,DB00125,Arginine,Phase 1,Investigational; Nutraceutical,0
+464,DB11809,Artefenomel,Phase 1,Investigational,0
+863,DB01076,Atorvastatin,Early Phase 1,Approved,1
+371,DB11995,Avatrombopag,Phase 1,Approved; Investigational,0
+195,DB09060,Avibactam,Phase 1,Approved,0
+179,DB12054,BQ-123,Phase 1,Investigational,0
+750,DB11936,Bempedoic acid,Phase 1,Approved; Investigational,0
+763,DB11989,Benznidazole,Phase 1,Approved; Investigational,0
+321,DB06761,Beractant,Phase 1,Approved,0
+890,DB00443,Betamethasone,Phase 1,Approved; Vet approved,1
+767,DB11591,Bilastine,Phase 1,Approved; Investigational,0
+902,DB00188,Bortezomib,Early Phase 1,Approved; Investigational,1
+524,DB11751,Cabotegravir,Phase 1,Approved; Investigational,0
+484,DB08875,Cabozantinib,Phase 1,Approved; Investigational,0
+909,DB00201,Caffeine,Early Phase 1,Approved,1
+572,DB04690,Camptothecin,Early Phase 1,Experimental,0
+469,DB09061,Cannabidiol,Early Phase 1,Approved; Investigational,0
+423,DB00089,Capromab pendetide,Phase 1,Approved,0
+774,DB00190,Carbidopa,Phase 1,Approved,1
+305,DB04339,Carbocisteine,Phase 1,Approved; Investigational,0
+403,DB12830,Cebranopadol,Phase 1,Investigational,0
+263,DB00535,Cefdinir,Early Phase 1,Approved,0
+196,DB00438,Ceftazidime,Phase 1,Approved,0
+341,DB00341,Cetirizine,Phase 1,Approved,0
+39,DB00878,Chlorhexidine,Phase 1,Approved; Vet approved; Withdrawn,0
+439,DB09277,Choline C 11,Early Phase 1,Approved; Investigational,0
+743,DB00575,Clonidine,Phase 1,Approved,0
+344,DB06292,Dapagliflozin,Phase 1,Approved,0
+773,DB11682,Daprodustat,Phase 1,Approved; Investigational,0
+636,DB00633,Dexmedetomidine,Early Phase 1,Approved; Vet approved,0
+342,DB01576,Dextroamphetamine,Phase 1,Approved; Illicit,0
+495,DB08809,Dichloroacetic acid,Phase 1,Approved; Investigational,0
+86,DB00586,Diclofenac,Phase 1,Approved; Vet approved,0
+40,DB00343,Diltiazem,Phase 1,Approved; Investigational,0
+287,DB01248,Docetaxel,Phase 1,Approved; Investigational,0
+404,DB00997,Doxorubicin,Phase 1,Approved; Investigational,0
+562,DB12273,Ecopipam,Phase 1,Investigational,0
+768,DB12273,Ecopipam,Phase 1,Investigational,0
+339,DB09075,Edoxaban,Phase 1,Approved,0
+415,DB00625,Efavirenz,Phase 1,Approved; Investigational,0
+612,DB00625,Efavirenz,Phase 1,Approved; Investigational,0
+769,DB05494,Elacytarabine,Phase 1,Investigational,0
+509,DB05187,Elafibranor,Phase 1,Investigational,0
+278,DB09038,Empagliflozin,Phase 1,Approved,0
+765,DB09038,Empagliflozin,Phase 1,Approved,0
+775,DB00494,Entacapone,Phase 1,Approved; Investigational,1
+264,DB00303,Ertapenem,Early Phase 1,Approved; Investigational,0
+500,DB11827,Ertugliflozin,Phase 1,Approved; Investigational,0
+747,DB00199,Erythromycin,Phase 1,Approved; Investigational; Vet approved,0
+770,DB12395,Esreboxetine,Phase 1,Investigational,0
+516,DB12235,Estetrol,Phase 1,Approved; Investigational,0
+252,DB00973,Ezetimibe,Phase 1,Approved,0
+413,DB04953,Ezogabine,Phase 1,Approved; Investigational,0
+766,DB11808,Faldaprevir,Phase 1,Investigational,0
+691,DB09279,Fimasartan,Phase 1,Investigational,0
+442,DB09149,Florbetapir (18F),Phase 1,Approved; Investigational,0
+614,DB00196,Fluconazole,Phase 1,Approved; Investigational,0
+712,DB01073,Fludarabine,Phase 1,Approved,0
+661,DB01205,Flumazenil,Phase 1,Approved,0
+573,DB00544,Fluorouracil,Early Phase 1,Approved,0
+141,DB00875,Flupentixol,Phase 1,Approved; Investigational; Withdrawn,0
+384,DB06623,Flupirtine,Phase 1,Investigational,0
+389,DB06717,Fosaprepitant,Phase 1,Approved,0
+222,DB00695,Furosemide,Early Phase 1,Approved; Vet approved,0
+771,DB12253,GDC-0810,Phase 1,Investigational,0
+398,DB05260,Gallium nitrate,Phase 1,Approved; Investigational,0
+728,DB11911,Galunisertib,Phase 1,Investigational,0
+704,DB00441,Gemcitabine,Phase 1,Approved,0
+31,DB00798,Gentamicin,Phase 1,Approved; Vet approved,0
+504,DB12141,Gilteritinib,Phase 1,Approved; Investigational,0
+755,DB11978,Glasdegib,Phase 1,Approved; Investigational,0
+580,DB00222,Glimepiride,Phase 1,Approved,0
+349,DB01067,Glipizide,Phase 1,Approved; Investigational,0
+386,DB11575,Grazoprevir,Phase 1,Approved,0
+68,DB11627,Hepatitis B Vaccine (Recombinant),Phase 1,Approved; Withdrawn,0
+648,DB01611,Hydroxychloroquine,Phase 1,Approved,0
+4,DB11123,Hypochlorite,Phase 1,Approved,0
+497,DB09053,Ibrutinib,Phase 1,Approved,0
+154,DB11737,Icotinib,Phase 1,Experimental; Investigational,0
+746,DB12325,Idasanutlin,Phase 1,Investigational,0
+698,DB00068,Interferon beta-1b,Phase 1,Approved,0
+472,DB09546,Iobenguane sulfate I-123,Phase 1,Approved; Investigational,0
+202,DB01362,Iohexol,Early Phase 1,Approved,0
+224,DB00332,Ipratropium,Phase 1,Approved; Experimental,0
+757,DB01167,Itraconazole,Phase 1,Approved; Investigational,0
+734,DB12059,JNJ-40411813,Phase 1,Investigational,0
+635,DB01221,Ketamine,Early Phase 1,Approved; Vet approved,0
+510,DB05096,LY2140023,Phase 1,Investigational,0
+749,DB00555,Lamotrigine,Phase 1,Approved; Investigational,0
+387,DB11912,Lanopepden,Phase 1,Investigational,0
+579,DB00650,Leucovorin,Early Phase 1,Approved,0
+340,DB08882,Linagliptin,Phase 1,Approved,0
+690,DB08882,Linagliptin,Phase 1,Approved,0
+295,DB00279,Liothyronine,Phase 1,Approved; Vet approved,0
+744,DB00186,Lorazepam,Phase 1,Approved,0
+756,DB12130,Lorlatinib,Phase 1,Approved; Investigational,0
+615,DB00678,Losartan,Phase 1,Approved,0
+571,DB11231,Lycopene,Phase 1,Approved; Investigational,0
+414,DB12534,Mavrilimumab,Phase 1,Investigational,0
+87,DB00825,Menthol,Phase 1,Approved,0
+729,DB12381,Merestinib,Phase 1,Investigational,0
+642,DB00331,Metformin,Phase 1,Approved,0
+419,DB00968,Methyldopa,Phase 1,Approved,0
+741,DB00422,Methylphenidate,Early Phase 1,Approved; Investigational,0
+873,DB00422,Methylphenidate,Early Phase 1,Approved; Investigational,1
+102,DB00959,Methylprednisolone,Early Phase 1,Approved; Vet approved,0
+599,DB00264,Metoprolol,Phase 1,Approved; Investigational,0
+262,DB00916,Metronidazole,Early Phase 1,Approved,0
+616,DB00683,Midazolam,Phase 1,Approved; Illicit,0
+912,DB00683,Midazolam,Phase 1,Approved; Illicit,1
+657,DB01454,Midomafetamine,Phase 1,Experimental; Illicit; Investigational,0
+751,DB00419,Miglustat,Phase 1,Approved,0
+508,DB08893,Mirabegron,Phase 1,Approved,0
+365,DB00471,Montelukast,Phase 1,Approved,0
+782,DB00295,Morphine,Phase 1,Approved; Investigational,1
+754,DB09049,Naloxegol,Phase 1,Approved,0
+547,DB09074,Olaparib,Phase 1,Approved,0
+518,DB11746,Onartuzumab,Phase 1,Investigational,0
+463,DB01083,Orlistat,Phase 1,Approved; Investigational,0
+742,DB09330,Osimertinib,Phase 1,Approved,0
+574,DB00526,Oxaliplatin,Early Phase 1,Approved; Investigational,0
+267,DB00107,Oxytocin,Phase 1,Approved; Vet approved,0
+362,DB11814,PF-03882845,Phase 1,Investigational,0
+271,DB12675,PF-04995274,Phase 1,Investigational,0
+269,DB07941,PH-797804,Phase 1,Investigational,0
+512,DB01267,Paliperidone,Phase 1,Approved,0
+424,DB01269,Panitumumab,Phase 1,Approved; Investigational,0
+613,DB00715,Paroxetine,Phase 1,Approved; Investigational,0
+35,DB11774,Pazufloxacin,Phase 1,Investigational,0
+281,DB00082,Pegvisomant,Phase 1,Approved,0
+760,DB03088,Pidolic acid,Phase 1,Approved; Investigational,0
+505,DB12114,Poziotinib,Phase 1,Investigational,0
+637,DB00818,Propofol,Early Phase 1,Approved; Investigational; Vet approved,0
+60,DB11664,Psilocybin,Phase 1,Investigational,0
+506,DB12975,Pyronaridine,Phase 1,Investigational,0
+513,DB12874,Quizartinib,Phase 1,Investigational,0
+436,DB08913,Radium Ra 223 dichloride,Early Phase 1,Approved; Investigational,0
+646,DB06817,Raltegravir,Early Phase 1,Approved,0
+864,DB00178,Ramipril,Early Phase 1,Approved,1
+893,DB00912,Repaglinide,Phase 1,Approved; Investigational,1
+790,DB02709,Resveratrol,Phase 1,Investigational,1
+385,DB00811,Ribavirin,Phase 1,Approved,0
+470,DB08864,Rilpivirine,Phase 1,Approved,0
+416,DB00503,Ritonavir,Phase 1,Approved; Investigational,0
+395,DB01098,Rosuvastatin,Phase 1,Approved,0
+643,DB01098,Rosuvastatin,Phase 1,Approved,0
+656,DB12659,SJ-733,Phase 1,Investigational,0
+551,DB09292,Sacubitril,Early Phase 1,Approved,0
+394,DB06654,Safinamide,Phase 1,Approved; Investigational,0
+753,DB12183,Sapitinib,Phase 1,Investigational,0
+474,DB11805,Saracatinib,Phase 1,Investigational,0
+752,DB11805,Saracatinib,Phase 1,Investigational,0
+343,DB06335,Saxagliptin,Phase 1,Approved,0
+260,DB00203,Sildenafil,Phase 1,Approved; Investigational,0
+279,DB00877,Sirolimus,Phase 1,Approved; Investigational,0
+649,DB00877,Sirolimus,Phase 1,Approved; Investigational,0
+272,DB11803,Sirukumab,Phase 1,Investigational,0
+5,DB00815,Sodium lauryl sulfate,Phase 1,Experimental,0
+407,DB12713,Sotagliflozin,Phase 1,Approved; Investigational,0
+380,DB11764,Spebrutinib,Phase 1,Investigational,0
+363,DB00421,Spironolactone,Phase 1,Approved,0
+259,DB00864,Tacrolimus,Phase 1,Approved; Investigational,0
+731,DB12550,Taladegib,Phase 1,Investigational,0
+381,DB06204,Tapentadol,Phase 1,Approved,0
+740,DB12228,Telcagepant,Phase 1,Investigational,0
+401,DB00560,Tigecycline,Phase 1,Approved,0
+818,DB00373,Timolol,Phase 1,Approved,1
+66,DB01409,Tiotropium,Phase 1,Approved,0
+514,DB00932,Tipranavir,Phase 1,Approved; Investigational,0
+348,DB08895,Tofacitinib,Phase 1,Approved; Investigational,0
+409,DB09076,Umeclidinium,Phase 1,Approved,0
+507,DB08881,Vemurafenib,Phase 1,Approved,0
+777,DB12440,Verdiperstat,Early Phase 1,Investigational,1
+758,DB11971,Vilaprisan,Phase 1,Investigational,0
+399,DB02546,Vorinostat,Phase 1,Approved; Investigational,0
+891,DB00682,Warfarin,Phase 1,Approved,1
+467,DB00558,Zanamivir,Phase 1,Approved; Investigational,0
+645,DB00495,Zidovudine,Early Phase 1,Approved,0
+736,DB00315,Zolmitriptan,Phase 1,Approved; Investigational,0
+406,DB00425,Zolpidem,Phase 1,Approved,0
+598,DB00425,Zolpidem,Phase 1,Approved,0
+473,DB13021,123I-iodometomidate,Phase 1/Phase 2,Investigational,0
+313,DB05812,Abiraterone,Phase 2,Approved,0
+131,DB00316,Acetaminophen,Phase 2,Approved,0
+435,DB03166,Acetic acid,Phase 2,Approved,0
+680,DB03166,Acetic acid,Phase 1/Phase 2,Approved,0
+776,DB06151,Acetylcysteine,Phase 2,Approved; Investigational,1
+178,DB00062,Albumin human,Phase 2,Approved,0
+294,DB00041,Aldesleukin,Phase 2,Approved,0
+239,DB00770,Alprostadil,Phase 2,Approved; Investigational,0
+238,DB00009,Alteplase,Phase 2,Approved; Investigational,0
+823,DB04947,Altropane,Phase 2,Investigational,1
+825,DB06742,Ambroxol,Phase 2,Approved; Investigational,1
+74,DB01223,Aminophylline,Phase 2,Approved,0
+576,DB00233,Aminosalicylic acid,Phase 2,Approved,0
+499,DB09326,Ammonia N-13,Phase 2,Approved,0
+94,DB00613,Amodiaquine,Phase 2,Approved; Investigational,0
+201,DB00026,Anakinra,Phase 2,Approved; Investigational,0
+556,DB01217,Anastrozole,Phase 2,Approved; Investigational,0
+251,DB05767,Andrographolide,Phase 1/Phase 2,Investigational,0
+836,DB11885,Anlotinib,Phase 2,Investigational,1
+428,DB00098,Antithymocyte immunoglobulin (rabbit),Phase 2,Approved,0
+160,DB11854,Astodrimer,Phase 2,Investigational,0
+867,DB11595,Atezolizumab,Phase 2,Approved; Investigational,1
+9,DB00572,Atropine,Phase 2,Approved; Vet approved,0
+316,DB00993,Azathioprine,Phase 2,Approved,0
+388,DB11966,BMS-986094,Phase 1/Phase 2,Investigational,0
+261,DB12256,Bamosiran,Phase 2,Investigational,0
+610,DB11817,Baricitinib,Phase 2,Approved; Investigational,0
+315,DB00074,Basiliximab,Phase 2,Approved; Investigational,0
+468,DB12526,Batefenterol,Phase 2,Investigational,0
+881,DB12299,Bavisant,Phase 2,Investigational,1
+594,DB12225,Beclabuvir,Phase 2,Investigational,0
+471,DB11936,Bempedoic acid,Phase 2,Approved; Investigational,0
+426,DB06769,Bendamustine,Phase 2,Approved; Investigational,0
+11,DB00443,Betamethasone,Phase 1/Phase 2,Approved; Vet approved,0
+617,DB00112,Bevacizumab,Phase 2,Approved; Investigational,0
+868,DB00112,Bevacizumab,Phase 2,Approved; Investigational,1
+897,DB00612,Bisoprolol,Phase 2,Approved,1
+445,DB00290,Bleomycin,Phase 2,Approved; Investigational,0
+193,DB00083,Botulinum toxin type A,Phase 2,Approved; Investigational,0
+906,DB00887,Bumetanide,Phase 2,Approved,1
+142,DB00490,Buspirone,Phase 2,Approved; Investigational,0
+908,DB00490,Buspirone,Phase 2,Approved; Investigational,1
+632,DB00201,Caffeine,Phase 1/Phase 2,Approved,0
+13,DB02300,Calcipotriol,Phase 1/Phase 2,Approved,0
+258,DB00136,Calcitriol,Phase 2,Approved; Nutraceutical,0
+255,DB06724,Calcium carbonate,Phase 2,Approved; Investigational,0
+485,DB04690,Camptothecin,Phase 2,Experimental,0
+915,DB09061,Cannabidiol,Phase 2,Approved; Investigational,1
+44,DB01101,Capecitabine,Phase 1/Phase 2,Approved; Investigational,0
+609,DB01101,Capecitabine,Phase 2,Approved; Investigational,0
+289,DB12452,Caprylic alcohol,Phase 2,Investigational,0
+916,DB06774,Capsaicin,Phase 1/Phase 2,Approved,1
+493,DB00958,Carboplatin,Phase 1/Phase 2,Approved,0
+438,DB01535,Carfentanil,Phase 2,Illicit; Investigational; Vet approved,0
+544,DB11113,Castor oil,Phase 2,Approved; Investigational; Nutraceutical; Vet approved,0
+173,DB01161,Chloroprocaine,Phase 2,Approved; Investigational,0
+453,DB01401,Choline magnesium trisalicylate,Phase 2,Approved,0
+331,DB00369,Cidofovir,Phase 2,Approved,0
+115,DB00537,Ciprofloxacin,Phase 2,Approved; Investigational,0
+460,DB00515,Cisplatin,Phase 2,Approved,0
+208,DB12849,Clazakizumab,Phase 2,Investigational,0
+101,DB00575,Clonidine,Phase 2,Approved,0
+487,DB00531,Cyclophosphamide,Phase 2,Approved; Investigational,0
+390,DB00260,Cycloserine,Phase 2,Approved,0
+12,DB00091,Cyclosporine,Phase 1/Phase 2,Approved; Investigational; Vet approved,0
+595,DB09102,Daclatasvir,Phase 2,Approved; Investigational,0
+367,DB06637,Dalfampridine,Phase 2,Approved,0
+243,DB04983,Denufosol,Phase 2,Investigational,0
+633,DB00514,Dextromethorphan,Phase 1/Phase 2,Approved,0
+346,DB00917,Dinoprostone,Phase 2,Approved,0
+816,DB12733,Dipraglurant,Phase 2,Investigational,1
+347,DB00843,Donepezil,Phase 2,Approved,0
+803,DB00988,Dopamine,Phase 1/Phase 2,Approved,1
+73,DB00561,Doxapram,Phase 2,Approved; Vet approved,0
+256,DB06410,Doxercalciferol,Phase 2,Approved,0
+903,DB00997,Doxorubicin,Phase 1/Phase 2,Approved; Investigational,1
+144,DB09045,Dulaglutide,Phase 2,Approved; Investigational,0
+26,DB11687,E-6201,Phase 2,Investigational,0
+520,DB06243,Eflornithine,Phase 2,Approved; Withdrawn,0
+138,DB11979,Elagolix,Phase 2,Approved; Investigational,0
+624,DB11727,Endostar,Phase 2,Investigational,0
+655,DB12039,Epicatechin,Phase 2,Investigational,0
+667,DB12116,Epigallocatechin gallate,Phase 2,Investigational,0
+283,DB00530,Erlotinib,Phase 1/Phase 2,Approved; Investigational,0
+489,DB00773,Etoposide,Phase 2,Approved,0
+837,DB00773,Etoposide,Phase 2,Approved,1
+555,DB00990,Exemestane,Phase 2,Approved; Investigational,0
+901,DB00973,Ezetimibe,Phase 2,Approved,1
+228,DB12909,Factor XIII (human),Phase 2,Approved; Investigational,0
+211,DB05595,Farletuzumab,Phase 2,Investigational,0
+665,DB06702,Fesoterodine,Phase 2,Approved,0
+430,DB00099,Filgrastim,Phase 2,Approved,0
+55,DB01216,Finasteride,Phase 2,Approved,0
+441,DB09148,Florbetaben (18F),Phase 2,Approved,0
+735,DB09149,Florbetapir (18F),Phase 2,Approved; Investigational,0
+786,DB09149,Florbetapir (18F),Phase 1/Phase 2,Approved; Investigational,1
+375,DB01099,Flucytosine,Phase 1/Phase 2,Approved; Investigational,0
+429,DB01073,Fludarabine,Phase 2,Approved,0
+437,DB09502,Fludeoxyglucose (18F),Phase 2,Approved; Investigational,0
+788,DB09502,Fludeoxyglucose (18F),Phase 2,Approved; Investigational,1
+566,DB09398,Fluoride ion F-18,Phase 2,Approved,0
+852,DB06716,Fospropofol,Phase 2,Approved; Illicit; Investigational,1
+666,DB00743,Gadobenic acid,Phase 2,Approved; Investigational,0
+434,DB12091,Gadolinium,Phase 1/Phase 2,Approved; Investigational,0
+478,DB00674,Galantamine,Phase 1/Phase 2,Approved,0
+563,DB06784,Gallium citrate Ga-67,Phase 2,Approved,0
+461,DB13040,Gandotinib,Phase 2,Investigational,0
+458,DB00441,Gemcitabine,Phase 2,Approved,0
+625,DB09257,Gimeracil,Phase 2,Approved,0
+197,DB00143,Glutathione,Phase 2,Approved; Investigational; Nutraceutical,0
+312,DB00145,Glycine,Phase 2,Approved; Nutraceutical; Vet approved,0
+699,DB01109,Heparin,Phase 2,Approved; Investigational,0
+350,DB00956,Hydrocodone,Phase 2,Approved; Illicit; Investigational,0
+542,DB13023,IPI-493,Phase 2,Investigational,0
+425,DB00078,Ibritumomab tiuxetan,Phase 2,Approved; Investigational,0
+317,DB13156,Inosine pranobex,Phase 2,Approved,0
+490,DB00105,Interferon alfa-2b,Phase 2,Approved,0
+745,DB09546,Iobenguane sulfate I-123,Phase 2,Approved; Investigational,0
+82,DB00753,Isoflurane,Phase 2,Approved; Vet approved,0
+360,DB00951,Isoniazid,Phase 1/Phase 2,Approved; Investigational,0
+148,DB00465,Ketorolac,Phase 2,Approved,0
+163,DB04398,Lactic acid,Phase 2,Approved; Vet approved,0
+400,DB04465,Lactose,Phase 2,Approved; Experimental; Investigational,0
+608,DB01259,Lapatinib,Phase 2,Approved; Investigational,0
+557,DB01006,Letrozole,Phase 2,Approved; Investigational,0
+564,DB00007,Leuprolide,Phase 2,Approved; Investigational,0
+170,DB00583,Levocarnitine,Phase 2,Approved; Investigational,0
+214,DB01378,Magnesium cation,Phase 2,Approved; Nutraceutical,0
+225,DB09407,Magnesium chloride,Phase 2,Approved,0
+374,DB03323,Maltose,Phase 1/Phase 2,Experimental; Investigational,0
+114,DB12041,Mapracorat,Phase 2,Investigational,0
+817,DB13004,Mavoglurant,Phase 2,Investigational,1
+447,DB00888,Mechlorethamine,Phase 2,Approved; Investigational,0
+308,DB00331,Metformin,Phase 2,Approved,0
+92,DB08167,Methylthioninium,Phase 2,Experimental; Investigational,0
+113,DB01017,Minocycline,Phase 2,Approved; Investigational,0
+462,DB00305,Mitomycin,Phase 2,Approved,0
+391,DB00745,Modafinil,Phase 2,Approved; Investigational,0
+58,DB00295,Morphine,Phase 2,Approved; Investigational,0
+314,DB00688,Mycophenolate mofetil,Phase 2,Approved; Investigational,0
+56,DB05493,NX-1207,Phase 2,Investigational,0
+427,DB00704,Naltrexone,Phase 2,Approved; Investigational; Vet approved,0
+67,DB06711,Naphazoline,Phase 2,Approved; Investigational,0
+159,DB12293,Nefopam,Phase 2,Approved; Investigational,0
+213,DB00622,Nicardipine,Phase 2,Approved; Investigational,0
+232,DB09112,Nitrous acid,Phase 2,Approved; Investigational,0
+81,DB06690,Nitrous oxide,Phase 2,Approved; Vet approved,0
+549,DB09035,Nivolumab,Phase 2,Approved,0
+139,DB00717,Norethisterone,Phase 2,Approved,0
+358,DB00334,Olanzapine,Phase 1/Phase 2,Approved; Investigational,0
+156,DB12513,Omaveloxolone,Phase 2,Approved; Investigational,0
+353,DB00338,Omeprazole,Phase 2,Approved; Investigational; Vet approved,0
+634,DB00338,Omeprazole,Phase 1/Phase 2,Approved; Investigational; Vet approved,0
+83,DB09140,Oxygen,Phase 2,Approved; Vet approved,0
+525,DB11765,PF-04991532,Phase 2,Investigational,0
+393,DB05495,PG-530742,Phase 2,Investigational,0
+212,DB01229,Paclitaxel,Phase 2,Approved; Vet approved,0
+552,DB09037,Pembrolizumab,Phase 1/Phase 2,Approved,0
+880,DB09037,Pembrolizumab,Phase 2,Approved,1
+558,DB12602,Pentetreotide,Phase 1/Phase 2,Approved; Investigational,0
+781,DB12361,Piclozotan,Phase 2,Investigational,1
+692,DB04874,Picoplatin,Phase 1/Phase 2,Investigational,0
+814,DB05316,Pimavanserin,Phase 2,Approved; Investigational,1
+326,DB00337,Pimecrolimus,Phase 2,Approved; Investigational,0
+422,DB06811,Polidocanol,Phase 2,Approved,0
+668,DB09287,Polyethylene glycol,Phase 2,Approved; Vet approved,0
+328,DB00781,Polymyxin B,Phase 1/Phase 2,Approved; Vet approved,0
+226,DB00761,Potassium chloride,Phase 2,Approved; Withdrawn,0
+132,DB00750,Prilocaine,Phase 2,Approved,0
+57,DB01087,Primaquine,Phase 2,Approved,0
+449,DB01168,Procarbazine,Phase 2,Approved; Investigational,0
+361,DB00339,Pyrazinamide,Phase 1/Phase 2,Approved; Investigational,0
+95,DB00205,Pyrimethamine,Phase 2,Approved; Investigational; Vet approved,0
+543,DB00481,Raloxifene,Phase 2,Approved; Investigational,0
+157,DB11656,Rebamipide,Phase 2,Approved; Investigational,0
+359,DB01045,Rifampicin,Phase 1/Phase 2,Approved,0
+466,DB11753,Rifamycin,Phase 2,Approved; Investigational,0
+378,DB00884,Risedronic acid,Phase 2,Approved; Investigational,0
+700,DB06228,Rivaroxaban,Phase 2,Approved,0
+158,DB01656,Roflumilast,Phase 2,Approved,0
+726,DB00268,Ropinirole,Phase 2,Approved; Investigational,0
+254,DB00412,Rosiglitazone,Phase 2,Approved; Investigational,0
+240,DB13067,Rotigaptide,Phase 2,Investigational,0
+532,DB05273,Samarium (153Sm) lexidronam,Phase 2,Approved; Investigational,0
+392,DB12035,Sarecycline,Phase 2,Approved; Investigational,0
+257,DB00658,Sevelamer,Phase 2,Approved,0
+421,DB12965,Silver,Phase 1/Phase 2,Approved; Investigational,0
+227,DB09395,Sodium acetate,Phase 2,Approved; Investigational,0
+246,DB09484,Sodium fluorophosphate,Phase 2,Approved,0
+65,DB02772,Sucrose,Phase 1/Phase 2,Approved; Experimental; Investigational,0
+93,DB01299,Sulfadoxine,Phase 2,Approved; Investigational,0
+459,DB01268,Sunitinib,Phase 2,Approved; Investigational,0
+496,DB09397,Technetium Tc-99m sulfur colloid,Phase 2,Approved; Investigational,0
+457,DB05253,Telapristone acetate,Phase 2,Investigational,0
+503,DB12228,Telcagepant,Phase 2,Investigational,0
+486,DB06287,Temsirolimus,Phase 2,Approved,0
+651,DB06285,Teriparatide,Phase 2,Approved; Investigational,0
+143,DB00624,Testosterone,Phase 2,Approved; Investigational,0
+575,DB00775,Tirofiban,Phase 1/Phase 2,Approved,0
+198,DB06273,Tocilizumab,Phase 2,Approved,0
+611,DB08895,Tofacitinib,Phase 2,Approved; Investigational,0
+517,DB06212,Tolvaptan,Phase 2,Approved,0
+824,DB00273,Topiramate,Phase 2,Approved,1
+488,DB01030,Topotecan,Phase 2,Approved; Investigational,0
+175,DB12169,Tralokinumab,Phase 2,Approved; Investigational,0
+48,DB00072,Trastuzumab,Phase 2,Approved; Investigational,0
+99,DB00287,Travoprost,Phase 2,Approved,0
+479,DB00755,Tretinoin,Phase 2,Approved; Investigational; Nutraceutical,0
+327,DB00440,Trimethoprim,Phase 1/Phase 2,Approved; Vet approved,0
+0,DB06825,Triptorelin,Phase 2,Approved; Vet approved,0
+778,DB00809,Tropicamide,Phase 2,Approved; Investigational,1
+43,DB03419,Uracil,Phase 1/Phase 2,Experimental; Investigational,0
+448,DB00570,Vinblastine,Phase 2,Approved,0
+446,DB00541,Vincristine,Phase 2,Approved; Investigational,0
+129,DB00162,Vitamin A,Phase 2,Approved; Nutraceutical; Vet approved,0
+653,DB00169,Vitamin D3,Phase 2,Approved; Nutraceutical,0
+53,DB09145,Water,Phase 2,Approved,0
+169,DB11195,Xylitol,Phase 2,Experimental; Investigational,0
+515,DB01593,Zinc,Phase 1/Phase 2,Approved; Investigational,0
+654,DB00399,Zoledronic acid,Phase 2,Approved,0
+218,DB02342,2-Methoxyestradiol,Phase 3,Investigational,0
+809,DB00054,Abciximab,Phase 3,Approved,1
+811,DB12001,Abemaciclib,Phase 3,Approved; Investigational,1
+701,DB01418,Acenocoumarol,Phase 3,Approved; Investigational,0
+606,DB00316,Acetaminophen,Phase 2/Phase 3,Approved,0
+373,DB11709,Acetyl hexapeptide-3,Phase 3,Investigational,0
+112,DB08885,Aflibercept,Phase 3,Approved,0
+199,DB01118,Amiodarone,Phase 3,Approved; Investigational,0
+382,DB00681,Amphotericin B,Phase 3,Approved; Investigational,0
+297,DB09274,Artesunate,Phase 3,Approved; Investigational,0
+137,DB00945,Aspirin,Phase 3,Approved; Vet approved,0
+861,DB00945,Aspirin,Phase 3,Approved; Vet approved,1
+869,DB00289,Atomoxetine,Phase 3,Approved,1
+229,DB01076,Atorvastatin,Phase 2/Phase 3,Approved,0
+879,DB00993,Azathioprine,Phase 3,Approved,1
+10,DB00972,Azelastine,Phase 3,Approved,0
+25,DB00207,Azithromycin,Phase 3,Approved,0
+200,DB12768,BCG vaccine,Phase 3,Approved; Investigational,0
+720,DB00181,Baclofen,Phase 3,Approved,0
+405,DB00394,Beclomethasone dipropionate,Phase 3,Approved; Investigational,0
+885,DB12783,Benserazide,Phase 3,Approved; Investigational,1
+61,DB09084,Benzydamine,Phase 3,Approved,0
+411,DB04115,Berberine,Phase 2/Phase 3,Approved; Investigational,0
+783,DB04115,Berberine,Phase 3,Approved; Investigational,1
+111,DB00112,Bevacizumab,Phase 3,Approved; Investigational,0
+900,DB12456,Bococizumab,Phase 3,Investigational,1
+171,DB11326,Boric acid,Phase 2/Phase 3,Approved,0
+276,DB00188,Bortezomib,Phase 3,Approved; Investigational,0
+501,DB11776,Brodalumab,Phase 3,Approved; Investigational,0
+905,DB01200,Bromocriptine,Phase 3,Approved; Investigational; Withdrawn,1
+59,DB01222,Budesonide,Phase 3,Approved,0
+591,DB00297,Bupivacaine,Phase 2/Phase 3,Approved; Investigational,0
+301,DB05398,C31G,Phase 3,Investigational,0
+176,DB00146,Calcifediol,Phase 3,Approved; Nutraceutical,0
+136,DB00258,Calcium acetate,Phase 3,Approved; Investigational,0
+802,DB01101,Capecitabine,Phase 3,Approved; Investigational,1
+174,DB06774,Capsaicin,Phase 2/Phase 3,Approved,0
+567,DB01197,Captopril,Phase 3,Approved,0
+688,DB00958,Carboplatin,Phase 2/Phase 3,Approved,0
+913,DB00958,Carboplatin,Phase 3,Approved,1
+623,DB01136,Carvedilol,Phase 3,Approved; Investigational,0
+265,DB09050,Ceftolozane,Phase 3,Approved; Investigational,0
+805,DB09261,Certoparin,Phase 3,Approved; Investigational,1
+536,DB01410,Ciclesonide,Phase 3,Approved; Investigational,0
+683,DB00515,Cisplatin,Phase 3,Approved,0
+799,DB00515,Cisplatin,Phase 3,Approved,1
+533,DB00155,Citrulline,Phase 3,Investigational; Nutraceutical,0
+322,DB01190,Clindamycin,Phase 3,Approved; Vet approved,0
+862,DB00758,Clopidogrel,Phase 3,Approved,1
+689,DB09065,Cobicistat,Phase 3,Approved,0
+168,DB00286,Conjugated estrogens,Phase 3,Approved,0
+253,DB11672,Curcumin,Phase 3,Approved; Investigational,0
+280,DB11682,Daprodustat,Phase 3,Approved; Investigational,0
+14,DB01260,Desonide,Phase 3,Approved; Investigational,0
+713,DB01260,Desonide,Phase 3,Approved; Investigational,0
+103,DB00547,Desoximetasone,Phase 3,Approved,0
+77,DB00633,Dexmedetomidine,Phase 2/Phase 3,Approved; Vet approved,0
+877,DB00514,Dextromethorphan,Phase 3,Approved,1
+672,DB00900,Didanosine,Phase 3,Approved,0
+798,DB01248,Docetaxel,Phase 3,Approved; Investigational,1
+853,DB00843,Donepezil,Phase 3,Approved,1
+714,DB00997,Doxorubicin,Phase 3,Approved; Investigational,0
+584,DB00254,Doxycycline,Phase 2/Phase 3,Approved; Investigational; Vet approved,0
+105,DB01395,Drospirenone,Phase 3,Approved,0
+69,DB01126,Dutasteride,Phase 3,Approved; Investigational,0
+140,DB00378,Dydrogesterone,Phase 3,Approved; Investigational; Withdrawn,0
+412,DB09272,Eluxadoline,Phase 3,Approved; Investigational,0
+568,DB00584,Enalapril,Phase 3,Approved; Vet approved,0
+590,DB00668,Epinephrine,Phase 2/Phase 3,Approved; Vet approved,0
+372,DB00199,Erythromycin,Phase 3,Approved; Investigational; Vet approved,0
+188,DB00016,Erythropoietin,Phase 2/Phase 3,Approved,0
+465,DB09119,Eslicarbazepine acetate,Phase 3,Approved,0
+106,DB00783,Estradiol,Phase 3,Approved; Investigational; Vet approved,0
+333,DB00005,Etanercept,Phase 3,Approved; Investigational,0
+718,DB00773,Etoposide,Phase 3,Approved,0
+914,DB11741,Famitinib,Phase 3,Investigational,1
+494,DB01039,Fenofibrate,Phase 3,Approved,0
+245,DB00800,Fenoldopam,Phase 2/Phase 3,Approved,0
+379,DB04908,Flibanserin,Phase 3,Approved; Investigational,0
+565,DB13146,Fluciclovine (18F),Phase 2/Phase 3,Approved,0
+669,DB09502,Fludeoxyglucose (18F),Phase 3,Approved; Investigational,0
+800,DB00544,Fluorouracil,Phase 3,Approved,1
+534,DB00569,Fondaparinux,Phase 3,Approved; Investigational,0
+539,DB00983,Formoterol,Phase 3,Approved; Investigational,0
+845,DB06717,Fosaprepitant,Phase 3,Approved,1
+787,DB00695,Furosemide,Phase 3,Approved; Vet approved,1
+116,DB01044,Gatifloxacin,Phase 3,Approved; Investigational; Withdrawn,0
+420,DB00222,Glimepiride,Phase 3,Approved,0
+841,DB00889,Granisetron,Phase 3,Approved; Investigational,1
+231,DB03404,Hemin,Phase 3,Approved; Investigational,0
+217,DB01109,Heparin,Phase 3,Approved; Investigational,0
+806,DB01109,Heparin,Phase 3,Approved; Investigational,1
+36,DB08818,Hyaluronic acid,Phase 3,Approved; Vet approved,0
+456,DB00999,Hydrochlorothiazide,Phase 3,Approved; Vet approved,0
+332,DB00327,Hydromorphone,Phase 3,Approved; Illicit,0
+177,DB11602,Hydroxyethyl cellulose,Phase 3,Approved,0
+541,DB06789,Hydroxyprogesterone caproate,Phase 3,Approved; Investigational,0
+302,DB00710,Ibandronate,Phase 3,Approved; Investigational,0
+716,DB01181,Ifosfamide,Phase 3,Approved,0
+351,DB11964,Ilaprazole,Phase 3,Investigational,0
+1,DB09374,Indocyanine green,Phase 3,Approved; Investigational,0
+482,DB00982,Isotretinoin,Phase 3,Approved,0
+622,DB09083,Ivabradine,Phase 3,Approved,0
+155,DB00602,Ivermectin,Phase 3,Approved; Investigational; Vet approved,0
+72,DB01221,Ketamine,Phase 3,Approved; Vet approved,0
+383,DB01026,Ketoconazole,Phase 3,Approved; Investigational,0
+583,DB01009,Ketoprofen,Phase 2/Phase 3,Approved; Vet approved,0
+402,DB00581,Lactulose,Phase 3,Approved,0
+678,DB00709,Lamivudine,Phase 3,Approved; Investigational,0
+846,DB01259,Lapatinib,Phase 3,Approved; Investigational,1
+451,DB09027,Ledipasvir,Phase 3,Approved,0
+275,DB00480,Lenalidomide,Phase 3,Approved,0
+550,DB00650,Leucovorin,Phase 3,Approved,0
+801,DB00650,Leucovorin,Phase 3,Approved,1
+808,DB01235,Levodopa,Phase 3,Approved,1
+292,DB00166,Lipoic acid,Phase 3,Approved; Investigational; Nutraceutical,0
+570,DB00722,Lisinopril,Phase 3,Approved; Investigational,0
+298,DB06708,Lumefantrine,Phase 3,Approved,0
+356,DB01065,Melatonin,Phase 2/Phase 3,Approved; Nutraceutical; Vet approved,0
+277,DB01042,Melphalan,Phase 3,Approved,0
+865,DB00916,Metronidazole,Phase 3,Approved,1
+483,DB00834,Mifepristone,Phase 3,Approved; Investigational,0
+24,DB11057,Mineral oil,Phase 3,Approved; Vet approved,0
+840,DB11057,Mineral oil,Phase 3,Approved; Vet approved,1
+640,DB00295,Morphine,Phase 2/Phase 3,Approved; Investigational,0
+878,DB00688,Mycophenolate mofetil,Phase 3,Approved; Investigational,1
+722,DB00704,Naltrexone,Phase 3,Approved; Investigational; Vet approved,0
+296,DB00788,Naproxen,Phase 3,Approved; Vet approved,0
+605,DB12293,Nefopam,Phase 2/Phase 3,Approved; Investigational,0
+674,DB00238,Nevirapine,Phase 3,Approved,0
+119,DB01115,Nifedipine,Phase 2/Phase 3,Approved,0
+128,DB00727,Nitroglycerin,Phase 2/Phase 3,Approved; Investigational,0
+866,DB00646,Nystatin,Phase 3,Approved; Vet approved,1
+475,DB08888,Ocriplasmin,Phase 3,Approved,0
+548,DB00104,Octreotide,Phase 3,Approved; Investigational,0
+538,DB01165,Ofloxacin,Phase 3,Approved,0
+843,DB00334,Olanzapine,Phase 3,Approved; Investigational,1
+844,DB00904,Ondansetron,Phase 3,Approved; Withdrawn,1
+167,DB11130,Opium,Phase 3,Approved; Illicit,0
+687,DB01229,Paclitaxel,Phase 2/Phase 3,Approved; Vet approved,0
+796,DB01229,Paclitaxel,Phase 3,Approved; Vet approved,1
+842,DB00377,Palonosetron,Phase 3,Approved; Investigational,1
+797,DB00642,Pemetrexed,Phase 3,Approved; Investigational,1
+789,DB08883,Perampanel,Phase 3,Approved,1
+318,DB09350,Piperonyl butoxide,Phase 2/Phase 3,Approved; Vet approved,0
+607,DB00554,Piroxicam,Phase 2/Phase 3,Approved; Investigational,0
+794,DB06715,Potassium Iodide,Phase 2/Phase 3,Approved,1
+76,DB00818,Propofol,Phase 2/Phase 3,Approved; Investigational; Vet approved,0
+249,DB01839,Propylene glycol,Phase 3,Approved; Investigational,0
+319,DB11087,Pyrethrum extract,Phase 2/Phase 3,Approved,0
+703,DB00114,Pyridoxal phosphate,Phase 3,Approved; Investigational; Nutraceutical,0
+829,DB00205,Pyrimethamine,Phase 3,Approved; Investigational; Vet approved,1
+876,DB00908,Quinidine,Phase 3,Approved; Investigational,1
+352,DB01129,Rabeprazole,Phase 2/Phase 3,Approved; Investigational,0
+569,DB00178,Ramipril,Phase 3,Approved,0
+110,DB01270,Ranibizumab,Phase 3,Approved,0
+785,DB01367,Rasagiline,Phase 3,Approved,1
+49,DB12404,Remimazolam,Phase 3,Approved; Investigational,0
+810,DB00015,Reteplase,Phase 3,Approved; Investigational,1
+364,DB11614,Rupatadine,Phase 3,Approved,0
+647,DB09029,Secukinumab,Phase 3,Approved,0
+303,DB00641,Simvastatin,Phase 2/Phase 3,Approved,0
+804,DB00641,Simvastatin,Phase 3,Approved,1
+54,DB01266,Sinecatechins,Phase 3,Approved; Investigational; Nutraceutical,0
+795,DB09325,Sodium fluoride,Phase 2/Phase 3,Approved,1
+450,DB08934,Sofosbuvir,Phase 3,Approved,0
+725,DB08934,Sofosbuvir,Phase 2/Phase 3,Approved,0
+721,DB01638,Sorbitol,Phase 3,Approved,0
+673,DB00649,Stavudine,Phase 3,Approved; Investigational,0
+219,DB00202,Succinylcholine,Phase 3,Approved,0
+62,DB00364,Sucralfate,Phase 3,Approved,0
+233,DB06206,Sugammadex,Phase 3,Approved,0
+828,DB01299,Sulfadoxine,Phase 3,Approved; Investigational,1
+537,DB01015,Sulfamethoxazole,Phase 3,Approved,0
+396,DB00669,Sumatriptan,Phase 3,Approved; Investigational,0
+631,DB00669,Sumatriptan,Phase 3,Approved; Investigational,0
+70,DB00820,Tadalafil,Phase 3,Approved; Investigational,0
+71,DB00706,Tamsulosin,Phase 3,Approved; Investigational,0
+397,DB09071,Tasimelteon,Phase 3,Approved; Investigational,0
+329,DB12441,Tavilermide,Phase 3,Investigational,0
+266,DB01606,Tazobactam,Phase 3,Approved,0
+418,DB00853,Temozolomide,Phase 3,Approved; Investigational,0
+216,DB00031,Tenecteplase,Phase 3,Approved,0
+330,DB00300,Tenofovir disoproxil,Phase 2/Phase 3,Approved; Investigational,0
+230,DB00277,Theophylline,Phase 2/Phase 3,Approved,0
+78,DB00373,Timolol,Phase 3,Approved,0
+807,DB00775,Tirofiban,Phase 3,Approved,1
+860,DB00013,Urokinase,Phase 3,Approved; Investigational; Withdrawn,1
+502,DB05679,Ustekinumab,Phase 3,Approved; Investigational,0
+535,DB00313,Valproic acid,Phase 2/Phase 3,Approved; Investigational,0
+476,DB09082,Vilanterol,Phase 3,Approved,0
+417,DB09185,Viloxazine,Phase 3,Approved; Investigational; Withdrawn,0
+715,DB00541,Vincristine,Phase 3,Approved; Investigational,0
+717,DB00309,Vindesine,Phase 3,Approved; Investigational,0
+135,DB00169,Vitamin D3,Phase 3,Approved; Nutraceutical,0
+46,DB11693,Voclosporin,Phase 2/Phase 3,Approved; Investigational,0
+702,DB00682,Warfarin,Phase 3,Approved,0
+658,DB09145,Water,Phase 3,Approved,0
+477,DB09315,Xenon-133,Phase 3,Approved,0
+91,DB12537,"1,2-Benzodiazepine",Phase 4,Approved; Investigational,0
+203,DB06151,Acetylcysteine,Phase 4,Approved; Investigational,0
+819,DB06594,Agomelatine,Phase 4,Approved; Investigational,1
+596,DB00518,Albendazole,Phase 4,Approved; Vet approved,0
+659,DB00062,Albumin human,Phase 4,Approved,0
+779,DB00915,Amantadine,Phase 4,Approved,1
+851,DB00513,Aminocaproic acid,Phase 4,Approved; Investigational,1
+455,DB06288,Amisulpride,Phase 4,Approved; Investigational,0
+320,DB01060,Amoxicillin,Phase 4,Approved; Vet approved,0
+848,DB05676,Apremilast,Phase 4,Approved; Investigational,1
+850,DB06692,Aprotinin,Phase 4,Approved; Investigational; Withdrawn,1
+854,DB01238,Aripiprazole,Phase 4,Approved; Investigational,1
+17,DB00905,Bimatoprost,Phase 4,Approved; Investigational,0
+895,DB00905,Bimatoprost,Phase 4,Approved; Investigational,1
+15,DB00484,Brimonidine,Phase 4,Approved,0
+894,DB00484,Brimonidine,Phase 4,Approved,1
+19,DB00963,Bromfenac,Phase 4,Approved; Withdrawn,0
+20,DB00297,Bupivacaine,Phase 4,Approved; Investigational,0
+910,DB00248,Cabergoline,Phase 4,Approved,1
+587,DB11348,Calcium Phosphate,Phase 4,Approved,0
+223,DB01164,Calcium chloride,Phase 4,Approved,0
+236,DB04519,Caprylic acid,Phase 4,Investigational,0
+38,DB11129,Carbamide peroxide,Phase 4,Approved,0
+149,DB11059,Carboxymethylcellulose,Phase 4,Approved; Investigational,0
+241,DB09261,Certoparin,Phase 4,Approved; Investigational,0
+526,DB00608,Chloroquine,Phase 4,Approved; Investigational; Vet approved,0
+311,DB09126,Chorionic Gonadotropin (Human),Phase 4,Approved; Vet approved,0
+335,DB01211,Clarithromycin,Phase 4,Approved,0
+41,DB01013,Clobetasol propionate,Phase 4,Approved,0
+274,DB00758,Clopidogrel,Phase 4,Approved,0
+454,DB00363,Clozapine,Phase 4,Approved,0
+621,DB00930,Colesevelam,Phase 4,Approved,0
+150,DB00979,Cyclopentolate,Phase 4,Approved,0
+100,DB01914,D-glucose,Phase 4,Approved; Investigational; Vet approved,0
+603,DB09183,Dasabuvir,Phase 4,Approved,0
+676,DB10401,Dermatophagoides pteronyssinus,Phase 4,Approved,0
+134,DB01189,Desflurane,Phase 4,Approved,0
+370,DB00967,Desloratadine,Phase 4,Approved; Investigational,0
+23,DB01234,Dexamethasone,Phase 4,Approved; Investigational; Vet approved,0
+738,DB01576,Dextroamphetamine,Phase 4,Approved; Illicit,0
+345,DB00829,Diazepam,Phase 4,Approved; Illicit; Investigational; Vet approved,0
+108,DB01231,Diphenidol,Phase 4,Approved; Investigational; Withdrawn,0
+161,DB00869,Dorzolamide,Phase 4,Approved,0
+50,DB00254,Doxycycline,Phase 4,Approved; Investigational; Vet approved,0
+917,DB06262,Droxidopa,Phase 4,Approved; Investigational,1
+52,DB00974,Edetic acid,Phase 4,Approved; Vet approved,0
+793,DB00879,Emtricitabine,Phase 4,Approved; Investigational,1
+164,DB00442,Entecavir,Phase 4,Approved; Investigational,0
+679,DB00442,Entecavir,Phase 4,Approved; Investigational,0
+377,DB12039,Epicatechin,Phase 4,Investigational,0
+80,DB00668,Epinephrine,Phase 4,Approved; Vet approved,0
+293,DB00153,Ergocalciferol,Phase 4,Approved; Nutraceutical,0
+334,DB00736,Esomeprazole,Phase 4,Approved; Investigational,0
+675,DB00736,Esomeprazole,Phase 4,Approved; Investigational,0
+821,DB00783,Estradiol,Phase 4,Approved; Investigational; Vet approved,1
+32,DB00898,Ethanol,Phase 4,Approved,0
+546,DB05869,Ethyl pyruvate,Phase 4,Investigational,0
+452,DB01590,Everolimus,Phase 4,Approved,0
+626,DB01276,Exenatide,Phase 4,Approved; Investigational,0
+21,DB00813,Fentanyl,Phase 4,Approved; Illicit; Investigational; Vet approved,0
+192,DB08917,Ferric carboxymaltose,Phase 4,Approved,0
+162,DB08973,Fluclorolone acetonide,Phase 4,Approved; Withdrawn,0
+29,DB00324,Fluorometholone,Phase 4,Approved; Investigational,0
+123,DB00712,Flurbiprofen,Phase 4,Approved; Investigational,0
+310,DB00588,Fluticasone propionate,Phase 4,Approved,0
+307,DB06730,Gestodene,Phase 4,Investigational,0
+521,DB09462,Glycerin,Phase 4,Approved; Investigational,0
+697,DB00999,Hydrochlorothiazide,Phase 4,Approved; Vet approved,0
+18,DB11075,Hypromellose,Phase 4,Approved,0
+896,DB11075,Hypromellose,Phase 4,Approved,1
+51,DB01050,Ibuprofen,Phase 4,Approved,0
+284,DB00047,Insulin glargine,Phase 4,Approved,0
+627,DB00047,Insulin glargine,Phase 4,Approved,0
+97,DB00030,Insulin human,Phase 4,Approved; Investigational,0
+582,DB00030,Insulin human,Phase 4,Approved; Investigational,0
+887,DB00030,Insulin human,Phase 4,Approved; Investigational,1
+581,DB00046,Insulin lispro,Phase 4,Approved,0
+492,DB09293,Iodide I-131,Phase 4,Approved; Investigational,0
+127,DB05382,Iodine,Phase 4,Approved; Investigational,0
+597,DB00602,Ivermectin,Phase 4,Approved; Investigational; Vet approved,0
+671,DB00448,Lansoprazole,Phase 4,Approved; Investigational,0
+16,DB00654,Latanoprost,Phase 4,Approved; Investigational,0
+117,DB01137,Levofloxacin,Phase 4,Approved; Investigational,0
+172,DB00367,Levonorgestrel,Phase 4,Approved; Investigational,0
+79,DB00281,Lidocaine,Phase 4,Approved; Vet approved,0
+166,DB06655,Liraglutide,Phase 4,Approved,0
+638,DB06655,Liraglutide,Phase 4,Approved,0
+22,DB00873,Loteprednol,Phase 4,Approved; Experimental,0
+184,DB00653,Magnesium sulfate,Phase 4,Approved; Investigational; Vet approved,0
+677,DB01065,Melatonin,Phase 4,Approved; Nutraceutical; Vet approved,0
+641,DB00454,Meperidine,Phase 4,Approved,0
+242,DB04817,Metamizole,Phase 4,Approved; Investigational; Withdrawn,0
+540,DB04819,Methapyrilene,Phase 4,Withdrawn,0
+519,DB00353,Methylergometrine,Phase 4,Approved,0
+644,DB00916,Metronidazole,Phase 4,Approved,0
+90,DB01110,Miconazole,Phase 4,Approved; Investigational; Vet approved,0
+639,DB01252,Mitiglinide,Phase 4,Investigational,0
+118,DB00218,Moxifloxacin,Phase 4,Approved; Investigational,0
+831,DB00218,Moxifloxacin,Phase 4,Approved; Investigational,1
+210,DB01400,Neostigmine,Phase 4,Approved; Vet approved,0
+189,DB12620,Nerve Growth Factor,Phase 4,Investigational,0
+585,DB00646,Nystatin,Phase 4,Approved; Vet approved,0
+33,DB12624,Octenidine,Phase 4,Investigational,0
+84,DB00768,Olopatadine,Phase 4,Approved,0
+602,DB09296,Ombitasvir,Phase 4,Approved; Investigational,0
+724,DB00904,Ondansetron,Phase 4,Approved; Withdrawn,0
+443,DB00526,Oxaliplatin,Phase 4,Approved; Investigational,0
+2,DB00497,Oxycodone,Phase 4,Approved; Illicit; Investigational,0
+121,DB00377,Palonosetron,Phase 4,Approved; Investigational,0
+368,DB12822,Pancreatic Polypeptide,Phase 4,Investigational,0
+369,DB00213,Pantoprazole,Phase 4,Approved,0
+604,DB09297,Paritaprevir,Phase 4,Approved; Investigational,0
+122,DB00652,Pentazocine,Phase 4,Approved; Vet approved,0
+151,DB00388,Phenylephrine,Phase 4,Approved,0
+207,DB00670,Pirenzepine,Phase 4,Approved,0
+153,DB09287,Polyethylene glycol,Phase 4,Approved; Vet approved,0
+37,DB06812,Povidone-iodine,Phase 4,Approved,0
+288,DB06209,Prasugrel,Phase 4,Approved,0
+336,DB09320,Procaine benzylpenicillin,Phase 4,Approved; Vet approved,0
+830,DB09320,Procaine benzylpenicillin,Phase 4,Approved; Vet approved,1
+820,DB00396,Progesterone,Phase 4,Approved; Vet approved,1
+185,DB09141,Protamine sulfate,Phase 4,Approved,0
+855,DB01224,Quetiapine,Phase 4,Approved,1
+737,DB12518,Raclopride,Phase 4,Investigational,0
+191,DB00863,Ranitidine,Phase 4,Approved; Withdrawn,0
+145,DB00899,Remifentanil,Phase 4,Approved,0
+601,DB00811,Ribavirin,Phase 4,Approved,0
+34,DB11933,Riboprine,Phase 4,Investigational,0
+30,DB00896,Rimexolone,Phase 4,Approved,0
+600,DB00503,Ritonavir,Phase 4,Approved; Investigational,0
+792,DB00503,Ritonavir,Phase 4,Approved; Investigational,1
+410,DB00073,Rituximab,Phase 4,Approved,0
+719,DB00073,Rituximab,Phase 4,Approved,0
+194,DB06228,Rivaroxaban,Phase 4,Approved,0
+8,DB00296,Ropivacaine,Phase 4,Approved,0
+628,DB00412,Rosiglitazone,Phase 4,Approved; Investigational,0
+886,DB01098,Rosuvastatin,Phase 4,Approved,1
+215,DB01001,Salbutamol,Phase 4,Approved; Vet approved,0
+545,DB00936,Salicylic acid,Phase 4,Approved; Investigational; Vet approved,0
+209,DB09532,Secretin human,Phase 4,Approved,0
+523,DB09029,Secukinumab,Phase 4,Approved,0
+181,DB01390,Sodium bicarbonate,Phase 4,Approved,0
+586,DB01390,Sodium bicarbonate,Phase 4,Approved,0
+3,DB09153,Sodium chloride,Phase 4,Approved; Vet approved,0
+780,DB09153,Sodium chloride,Phase 4,Approved; Vet approved,1
+47,DB09325,Sodium fluoride,Phase 4,Approved,0
+282,DB00052,Somatotropin,Phase 4,Approved; Investigational,0
+300,DB11460,Squalene,Phase 4,Approved; Vet approved,0
+723,DB00708,Sufentanil,Phase 4,Approved; Investigational,0
+306,DB12473,Taurolidine,Phase 4,Approved; Investigational,0
+791,DB00300,Tenofovir disoproxil,Phase 4,Approved; Investigational,1
+186,DB00871,Terbutaline,Phase 4,Approved,0
+554,DB09070,Tibolone,Phase 4,Approved; Investigational,0
+291,DB08816,Ticagrelor,Phase 4,Approved,0
+205,DB00193,Tramadol,Phase 4,Approved; Investigational,0
+695,DB00519,Trandolapril,Phase 4,Approved,0
+133,DB00302,Tranexamic acid,Phase 4,Approved,0
+42,DB00620,Triamcinolone,Phase 4,Approved; Vet approved,0
+553,DB13129,Trimegestone,Phase 4,Investigational,0
+847,DB00662,Trimethobenzamide,Phase 4,Approved; Investigational,1
+152,DB00809,Tropicamide,Phase 4,Approved; Investigational,0
+650,DB00094,Urofollitropin,Phase 4,Approved; Vet approved,0
+480,DB01586,Ursodeoxycholic acid,Phase 4,Approved; Investigational,0
+531,DB05294,Vandetanib,Phase 4,Approved,0
+165,DB01273,Varenicline,Phase 4,Approved; Investigational,0
+696,DB00661,Verapamil,Phase 4,Approved,0
+652,DB04876,Vildagliptin,Phase 4,Approved; Investigational,0
+107,DB00163,Vitamin E,Phase 4,Approved; Nutraceutical; Vet approved,0
+670,DB11739,Vonoprazan,Phase 4,Approved; Investigational,0

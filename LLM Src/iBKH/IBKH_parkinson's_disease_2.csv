@@ -1,0 +1,301 @@
+Type,Rank,Score,Primary_ID,Name,ATC Classification,Groups
+Drug,1,1.0,DB01224,Quetiapine,N: Nervous system,Approved
+Drug,2,0.98,DB00200,Hydroxocobalamin,V: Various / B: Blood and blood forming organs,Approved
+Drug,3,0.97,DB00787,Acyclovir,J: Antiinfectives for systemic use / D: Dermatologicals / S: Sensory organs,Approved
+Drug,4,0.97,DB04953,Ezogabine,N: Nervous system,Approved / Investigational
+Drug,5,0.96,DB00688,Mycophenolate mofetil,None,Approved / Investigational
+Drug,6,0.96,DB00798,Gentamicin,J: Antiinfectives for systemic use / D: Dermatologicals / S: Sensory organs,Approved / Vet_approved
+Drug,7,0.96,DB01409,Tiotropium,R: Respiratory system,Approved
+Drug,8,0.96,DB00567,Cephalexin,J: Antiinfectives for systemic use,Approved / Investigational / Vet_approved
+Drug,9,0.96,DB00577,Valaciclovir,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,10,0.95,DB00652,Pentazocine,N: Nervous system,Approved / Vet_approved
+Drug,11,0.95,DB00203,Sildenafil,G: Genito-urinary system and sex hormones,Approved / Investigational
+Drug,12,0.95,DB00035,Desmopressin,"H: Systemic hormonal preparations, excluding sex hormones and insulins",Approved
+Drug,13,0.95,DB08877,Ruxolitinib,L: Antineoplastic and immunomodulating agents,Approved
+Drug,14,0.95,DB00915,Amantadine,N: Nervous system,Approved
+Drug,15,0.95,DB01205,Flumazenil,V: Various,Approved
+Drug,16,0.95,DB00289,Atomoxetine,N: Nervous system,Approved
+Drug,17,0.95,DB01331,Cefoxitin,J: Antiinfectives for systemic use,Approved
+Drug,18,0.95,DB00285,Venlafaxine,N: Nervous system,Approved
+Drug,19,0.94,DB01018,Guanfacine,C: Cardiovascular system,Approved / Investigational
+Drug,20,0.94,DB01327,Cefazolin,J: Antiinfectives for systemic use,Approved
+Drug,21,0.94,DB00911,Tinidazole,"J: Antiinfectives for systemic use / A: Alimentary tract and metabolism / G: Genito-urinary system and sex hormones / P: Antiparasitic products, insecticides and repellents",Approved / Investigational
+Drug,22,0.94,DB01176,Cyclizine,R: Respiratory system,Approved
+Drug,23,0.94,DB00231,Temazepam,N: Nervous system,Approved / Investigational
+Drug,24,0.94,DB00628,Clorazepic acid,N: Nervous system,Approved / Illicit
+Drug,25,0.94,DB00494,Entacapone,N: Nervous system,Approved / Investigational
+Drug,26,0.94,DB00327,Hydromorphone,N: Nervous system,Approved / Illicit
+Drug,27,0.94,DB01190,Clindamycin,J: Antiinfectives for systemic use / G: Genito-urinary system and sex hormones / D: Dermatologicals,Approved / Vet_approved
+Drug,28,0.94,DB06402,Telavancin,J: Antiinfectives for systemic use,Approved
+Drug,29,0.94,DB00706,Tamsulosin,G: Genito-urinary system and sex hormones,Approved / Investigational
+Drug,30,0.94,DB00185,Cevimeline,N: Nervous system,Approved
+Drug,31,0.93,DB01156,Bupropion,N: Nervous system / A: Alimentary tract and metabolism,Approved
+Drug,32,0.93,DB00980,Ramelteon,N: Nervous system,Approved / Investigational
+Drug,33,0.93,DB00619,Imatinib,L: Antineoplastic and immunomodulating agents,Approved
+Drug,34,0.93,DB00005,Etanercept,L: Antineoplastic and immunomodulating agents,Approved / Investigational
+Drug,35,0.93,DB00690,Flurazepam,N: Nervous system,Approved / Illicit / Investigational
+Drug,36,0.93,DB09320,Procaine benzylpenicillin,J: Antiinfectives for systemic use,Approved / Vet_approved
+Drug,37,0.93,DB01421,Paromomycin,A: Alimentary tract and metabolism,Approved / Investigational
+Drug,38,0.93,DB00713,Oxacillin,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,39,0.93,DB00985,Dimenhydrinate,None,Approved
+Drug,40,0.93,DB01068,Clonazepam,N: Nervous system,Approved / Illicit
+Drug,41,0.93,DB01261,Sitagliptin,A: Alimentary tract and metabolism,Approved / Investigational
+Drug,42,0.93,DB00413,Pramipexole,N: Nervous system,Approved / Investigational
+Drug,43,0.93,DB00080,Daptomycin,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,44,0.93,DB00924,Cyclobenzaprine,M: Musculo-skeletal system,Approved
+Drug,45,0.93,DB00530,Erlotinib,L: Antineoplastic and immunomodulating agents,Approved / Investigational
+Drug,46,0.93,DB01168,Procarbazine,L: Antineoplastic and immunomodulating agents,Approved / Investigational
+Drug,47,0.92,DB00683,Midazolam,N: Nervous system,Approved / Illicit
+Drug,48,0.92,DB00186,Lorazepam,N: Nervous system,Approved
+Drug,49,0.92,DB00355,Aztreonam,J: Antiinfectives for systemic use,Approved
+Drug,50,0.92,DB01610,Valganciclovir,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,51,0.92,DB04868,Nilotinib,L: Antineoplastic and immunomodulating agents,Approved / Investigational
+Drug,52,0.92,DB01172,Kanamycin,J: Antiinfectives for systemic use / A: Alimentary tract and metabolism / S: Sensory organs,Approved / Investigational / Vet_approved
+Drug,53,0.92,DB00165,Pyridoxine,J: Antiinfectives for systemic use / A: Alimentary tract and metabolism,Approved / Investigational / Nutraceutical / Vet_approved
+Drug,54,0.92,DB08893,Mirabegron,G: Genito-urinary system and sex hormones,Approved
+Drug,55,0.92,DB08907,Canagliflozin,A: Alimentary tract and metabolism,Approved
+Drug,56,0.92,DB01263,Posaconazole,J: Antiinfectives for systemic use,Approved / Investigational / Vet_approved
+Drug,57,0.91,DB12537,Benzodiazepine,None,Approved / Investigational
+Drug,58,0.91,DB00280,Disopyramide,C: Cardiovascular system,Approved
+Drug,59,0.91,DB00245,Benzatropine,N: Nervous system,Approved
+Drug,60,0.91,DB01267,Paliperidone,N: Nervous system,Approved
+Drug,61,0.91,DB01558,Bromazepam,N: Nervous system,Approved / Illicit / Investigational
+Drug,62,0.91,DB00438,Ceftazidime,J: Antiinfectives for systemic use,Approved
+Drug,63,0.91,DB00819,Acetazolamide,G: Genito-urinary system and sex hormones / S: Sensory organs,Approved / Vet_approved
+Drug,64,0.91,DB01356,Lithium cation,None,Experimental
+Drug,65,0.91,DB00243,Ranolazine,C: Cardiovascular system,Approved / Investigational
+Drug,66,0.91,DB01367,Rasagiline,N: Nervous system,Approved
+Drug,67,0.91,DB00484,Brimonidine,D: Dermatologicals / S: Sensory organs,Approved
+Drug,68,0.91,DB01326,Cefamandole,J: Antiinfectives for systemic use,Approved / Experimental
+Drug,69,0.91,DB00900,Didanosine,J: Antiinfectives for systemic use,Approved
+Drug,70,0.91,DB00476,Duloxetine,N: Nervous system,Approved
+Drug,71,0.91,DB00469,Tenoxicam,M: Musculo-skeletal system,Approved
+Drug,72,0.91,DB00591,Fluocinolone acetonide,C: Cardiovascular system / D: Dermatologicals / S: Sensory organs,Approved / Investigational / Vet_approved
+Drug,73,0.91,DB01140,Cefadroxil,J: Antiinfectives for systemic use,Approved / Vet_approved / Withdrawn
+Drug,74,0.91,DB01329,Cefoperazone,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,75,0.91,DB01380,Cortisone acetate,None,Approved / Investigational
+Drug,76,0.91,DB00529,Foscarnet,J: Antiinfectives for systemic use,Approved
+Drug,77,0.91,DB00552,Pentostatin,L: Antineoplastic and immunomodulating agents,Approved / Investigational
+Drug,78,0.91,DB00198,Oseltamivir,J: Antiinfectives for systemic use,Approved
+Drug,79,0.91,DB00349,Clobazam,N: Nervous system,Approved / Illicit
+Drug,80,0.9,DB01060,Amoxicillin,J: Antiinfectives for systemic use / A: Alimentary tract and metabolism,Approved / Vet_approved
+Drug,81,0.9,DB00938,Salmeterol,R: Respiratory system,Approved
+Drug,82,0.9,DB06201,Rufinamide,N: Nervous system,Approved
+Drug,83,0.9,DB01330,Cefotetan,J: Antiinfectives for systemic use,Approved
+Drug,84,0.9,DB00454,Meperidine,N: Nervous system,Approved
+Drug,85,0.9,DB00813,Fentanyl,N: Nervous system,Approved / Illicit / Investigational / Vet_approved
+Drug,86,0.9,DB01035,Procainamide,C: Cardiovascular system,Approved
+Drug,87,0.9,DB00872,Conivaptan,C: Cardiovascular system,Approved / Investigational
+Drug,88,0.9,DB00842,Oxazepam,N: Nervous system,Approved
+Drug,89,0.9,DB00962,Zaleplon,N: Nervous system,Approved / Illicit / Investigational
+Drug,90,0.9,DB00332,Ipratropium,R: Respiratory system,Approved / Experimental
+Drug,91,0.9,DB00303,Ertapenem,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,92,0.9,DB01098,Rosuvastatin,A: Alimentary tract and metabolism / C: Cardiovascular system / G: Genito-urinary system and sex hormones,Approved
+Drug,93,0.9,DB00213,Pantoprazole,A: Alimentary tract and metabolism,Approved
+Drug,94,0.9,DB00237,Butabarbital,N: Nervous system,Approved / Illicit
+Drug,95,0.9,DB13954,Estradiol cypionate,None,Approved / Investigational / Vet_approved
+Drug,96,0.9,DB00703,Methazolamide,G: Genito-urinary system and sex hormones / S: Sensory organs,Approved
+Drug,97,0.9,DB00370,Mirtazapine,N: Nervous system,Approved
+Drug,98,0.9,DB01438,Phenazopyridine,G: Genito-urinary system and sex hormones,Approved
+Drug,99,0.9,DB09280,Lumacaftor,R: Respiratory system,Approved
+Drug,100,0.9,DB00604,Cisapride,A: Alimentary tract and metabolism,Approved / Investigational / Withdrawn
+Drug,101,0.9,DB01129,Rabeprazole,A: Alimentary tract and metabolism / M: Musculo-skeletal system,Approved / Investigational
+Drug,102,0.9,DB00726,Trimipramine,N: Nervous system,Approved
+Drug,103,0.9,DB01624,Zuclopenthixol,N: Nervous system,Approved / Investigational
+Drug,104,0.9,DB00248,Cabergoline,N: Nervous system / G: Genito-urinary system and sex hormones,Approved
+Drug,105,0.9,DB00969,Alosetron,A: Alimentary tract and metabolism,Approved / Withdrawn
+Drug,106,0.9,DB01099,Flucytosine,J: Antiinfectives for systemic use / D: Dermatologicals,Approved / Investigational
+Drug,107,0.89,DB00371,Meprobamate,N: Nervous system,Approved / Illicit
+Drug,108,0.89,DB11641,Vinflunine,L: Antineoplastic and immunomodulating agents,Approved / Investigational
+Drug,109,0.89,DB04946,Iloperidone,N: Nervous system,Approved
+Drug,110,0.89,DB09078,Lenvatinib,L: Antineoplastic and immunomodulating agents,Approved / Investigational
+Drug,111,0.89,DB00904,Ondansetron,A: Alimentary tract and metabolism,Approved
+Drug,112,0.89,DB01320,Fosphenytoin,N: Nervous system,Approved / Investigational
+Drug,113,0.89,DB05258,Interferon alfa,None,Investigational
+Drug,114,0.89,DB00601,Linezolid,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,115,0.89,DB01197,Captopril,C: Cardiovascular system,Approved
+Drug,116,0.89,DB00555,Lamotrigine,N: Nervous system,Approved / Investigational
+Drug,117,0.89,DB01020,Isosorbide mononitrate,C: Cardiovascular system,Approved
+Drug,118,0.89,DB00780,Phenelzine,N: Nervous system,Approved
+Drug,119,0.89,DB00359,Sulfadiazine,J: Antiinfectives for systemic use / G: Genito-urinary system and sex hormones,Approved / Investigational / Vet_approved
+Drug,120,0.89,DB00535,Cefdinir,J: Antiinfectives for systemic use,Approved
+Drug,121,0.89,DB04896,Milnacipran,N: Nervous system,Approved / Investigational
+Drug,122,0.89,DB01142,Doxepin,N: Nervous system / D: Dermatologicals,Approved / Investigational
+Drug,123,0.89,DB00845,Clofazimine,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,124,0.89,DB00229,Cefotiam,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,125,0.89,DB01072,Atazanavir,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,126,0.89,DB00314,Capreomycin,J: Antiinfectives for systemic use,Approved
+Drug,127,0.89,DB01623,Thiothixene,N: Nervous system,Approved
+Drug,128,0.89,DB06414,Etravirine,J: Antiinfectives for systemic use,Approved
+Drug,129,0.89,DB00961,Mepivacaine,N: Nervous system,Approved / Vet_approved
+Drug,130,0.89,DB00569,Fondaparinux,B: Blood and blood forming organs,Approved / Investigational
+Drug,131,0.89,DB00387,Procyclidine,N: Nervous system,Approved
+Drug,132,0.89,DB00804,Dicyclomine,A: Alimentary tract and metabolism,Approved
+Drug,133,0.89,DB00697,Tizanidine,M: Musculo-skeletal system,Approved / Investigational
+Drug,134,0.89,DB01198,Zopiclone,N: Nervous system,Approved
+Drug,135,0.89,DB01332,Ceftizoxime,J: Antiinfectives for systemic use,Approved / Withdrawn
+Drug,136,0.89,DB00423,Methocarbamol,M: Musculo-skeletal system,Approved / Vet_approved
+Drug,137,0.89,DB00408,Loxapine,N: Nervous system,Approved
+Drug,138,0.89,DB00479,Amikacin,J: Antiinfectives for systemic use / D: Dermatologicals / S: Sensory organs,Approved / Investigational / Vet_approved
+Drug,139,0.89,DB00828,Fosfomycin,J: Antiinfectives for systemic use,Approved
+Drug,140,0.89,DB00705,Delavirdine,J: Antiinfectives for systemic use,Approved
+Drug,141,0.89,DB09167,Dosulepin,N: Nervous system,Approved
+Drug,142,0.88,DB00292,Etomidate,N: Nervous system,Approved
+Drug,143,0.88,DB01215,Estazolam,N: Nervous system,Approved / Illicit
+Drug,144,0.88,DB01250,Olsalazine,A: Alimentary tract and metabolism,Approved
+Drug,145,0.88,DB06589,Pazopanib,L: Antineoplastic and immunomodulating agents,Approved
+Drug,146,0.88,DB08873,Boceprevir,J: Antiinfectives for systemic use,Approved / Withdrawn
+Drug,147,0.88,DB00190,Carbidopa,None,Approved
+Drug,148,0.88,DB04570,Latamoxef,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,149,0.88,DB00376,Trihexyphenidyl,N: Nervous system,Approved
+Drug,150,0.88,DB00782,Propantheline,A: Alimentary tract and metabolism,Approved
+Drug,151,0.88,DB08934,Sofosbuvir,J: Antiinfectives for systemic use,Approved
+Drug,152,0.88,DB09166,Etizolam,N: Nervous system,Experimental
+Drug,153,0.88,DB06605,Apixaban,B: Blood and blood forming organs,Approved
+Drug,154,0.88,DB01014,Balsalazide,A: Alimentary tract and metabolism,Approved / Investigational
+Drug,155,0.88,DB13952,Estradiol acetate,None,Approved / Investigational / Vet_approved
+Drug,156,0.88,DB00404,Alprazolam,N: Nervous system,Approved / Illicit / Investigational
+Drug,157,0.88,DB00358,Mefloquine,"P: Antiparasitic products, insecticides and repellents",Approved / Investigational
+Drug,158,0.88,DB01066,Cefditoren,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,159,0.88,DB00300,Tenofovir disoproxil,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,160,0.88,DB01150,Cefprozil,J: Antiinfectives for systemic use,Approved
+Drug,161,0.88,DB11901,Apalutamide,L: Antineoplastic and immunomodulating agents,Approved / Investigational
+Drug,162,0.88,DB00598,Labetalol,C: Cardiovascular system,Approved
+Drug,163,0.88,DB01416,Cefpodoxime,J: Antiinfectives for systemic use,Approved / Vet_approved
+Drug,164,0.88,DB09502,Fludeoxyglucose (18F),V: Various,Approved / Investigational
+Drug,165,0.88,DB00202,Succinylcholine,M: Musculo-skeletal system,Approved
+Drug,166,0.88,DB04920,Clevidipine,C: Cardiovascular system,Approved / Investigational
+Drug,167,0.88,DB01036,Tolterodine,G: Genito-urinary system and sex hormones,Approved / Investigational
+Drug,168,0.88,DB00456,Cefalotin,J: Antiinfectives for systemic use,Approved / Investigational / Vet_approved
+Drug,169,0.88,DB12278,Propiverine,G: Genito-urinary system and sex hormones,Approved / Investigational
+Drug,170,0.88,DB14539,Hydrocortisone acetate,None,Approved / Vet_approved
+Drug,171,0.88,DB00745,Modafinil,N: Nervous system,Approved / Investigational
+Drug,172,0.88,DB13956,Estradiol valerate,None,Approved / Investigational / Vet_approved
+Drug,173,0.87,DB00839,Tolazamide,A: Alimentary tract and metabolism,Approved / Investigational
+Drug,174,0.87,DB09038,Empagliflozin,A: Alimentary tract and metabolism,Approved
+Drug,175,0.87,DB06700,Desvenlafaxine,N: Nervous system,Approved / Investigational
+Drug,176,0.87,DB11753,Rifamycin,J: Antiinfectives for systemic use / A: Alimentary tract and metabolism / D: Dermatologicals / S: Sensory organs,Approved / Investigational
+Drug,177,0.87,DB08904,Certolizumab pegol,L: Antineoplastic and immunomodulating agents,Approved
+Drug,178,0.87,DB00373,Timolol,C: Cardiovascular system / S: Sensory organs,Approved
+Drug,179,0.87,DB11676,Galidesivir,None,Investigational
+Drug,180,0.87,DB01627,Lincomycin,J: Antiinfectives for systemic use,Approved / Vet_approved
+Drug,181,0.87,DB00972,Azelastine,S: Sensory organs / R: Respiratory system,Approved
+Drug,182,0.87,DB00651,Dyphylline,R: Respiratory system,Approved
+Drug,183,0.87,DB08883,Perampanel,N: Nervous system,Approved
+Drug,184,0.87,DB00808,Indapamide,G: Genito-urinary system and sex hormones / C: Cardiovascular system,Approved
+Drug,185,0.87,DB01105,Sibutramine,A: Alimentary tract and metabolism,Approved / Illicit / Investigational / Withdrawn
+Drug,186,0.87,DB00615,Rifabutin,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,187,0.87,DB00543,Amoxapine,N: Nervous system,Approved
+Drug,188,0.87,DB00983,Formoterol,R: Respiratory system,Approved / Investigational
+Drug,189,0.87,DB06702,Fesoterodine,G: Genito-urinary system and sex hormones,Approved
+Drug,190,0.87,DB00862,Vardenafil,G: Genito-urinary system and sex hormones,Approved
+Drug,191,0.87,DB00850,Perphenazine,N: Nervous system,Approved
+Drug,192,0.87,DB00588,Fluticasone propionate,None,Approved
+Drug,193,0.87,DB00209,Trospium,G: Genito-urinary system and sex hormones / A: Alimentary tract and metabolism,Approved
+Drug,194,0.87,DB00450,Droperidol,N: Nervous system,Approved / Vet_approved
+Drug,195,0.87,DB00696,Ergotamine,N: Nervous system,Approved
+Drug,196,0.87,DB00395,Carisoprodol,M: Musculo-skeletal system,Approved
+Drug,197,0.87,DB00440,Trimethoprim,J: Antiinfectives for systemic use,Approved / Vet_approved
+Drug,198,0.87,DB00582,Voriconazole,J: Antiinfectives for systemic use,Approved
+Drug,199,0.87,DB09072,Sodium oxybate,N: Nervous system,Approved
+Drug,200,0.87,DB00934,Maprotiline,N: Nervous system,Approved / Investigational
+Drug,201,0.87,DB00426,Famciclovir,J: Antiinfectives for systemic use / S: Sensory organs,Approved / Investigational
+Drug,202,0.87,DB01028,Methoxyflurane,N: Nervous system,Approved / Investigational / Vet_approved
+Drug,203,0.87,DB00764,Mometasone,R: Respiratory system,Experimental
+Drug,204,0.87,DB09082,Vilanterol,R: Respiratory system,Approved
+Drug,205,0.87,DB00835,Brompheniramine,R: Respiratory system,Approved
+Drug,206,0.87,DB06800,Methylnaltrexone,A: Alimentary tract and metabolism,Approved
+Drug,207,0.87,DB00150,Tryptophan,N: Nervous system,Approved / Nutraceutical / Withdrawn
+Drug,208,0.87,DB06772,Cabazitaxel,L: Antineoplastic and immunomodulating agents,Approved
+Drug,209,0.87,DB13295,Atracurium,M: Musculo-skeletal system,Approved / Experimental / Investigational
+Drug,210,0.87,DB00341,Cetirizine,R: Respiratory system,Approved
+Drug,211,0.86,DB00665,Nilutamide,L: Antineoplastic and immunomodulating agents,Approved / Investigational
+Drug,212,0.86,DB14009,Medical Cannabis,None,Experimental / Investigational
+Drug,213,0.86,DB00558,Zanamivir,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,214,0.86,DB01192,Oxymorphone,None,Approved / Investigational / Vet_approved
+Drug,215,0.86,DB00377,Palonosetron,A: Alimentary tract and metabolism,Approved / Investigational
+Drug,216,0.86,DB01208,Sparfloxacin,J: Antiinfectives for systemic use,Approved / Investigational / Withdrawn
+Drug,217,0.86,DB08815,Lurasidone,N: Nervous system,Approved / Investigational
+Drug,218,0.86,DB06594,Agomelatine,N: Nervous system,Approved / Investigational
+Drug,219,0.86,DB00424,Hyoscyamine,A: Alimentary tract and metabolism,Approved
+Drug,220,0.86,DB00308,Ibutilide,C: Cardiovascular system,Approved
+Drug,221,0.86,DB01384,Paramethasone,"H: Systemic hormonal preparations, excluding sex hormones and insulins",Experimental
+Drug,222,0.86,DB01144,Diclofenamide,G: Genito-urinary system and sex hormones / S: Sensory organs,Approved / Investigational
+Drug,223,0.86,DB00794,Primidone,N: Nervous system,Approved / Vet_approved
+Drug,224,0.86,DB06262,Droxidopa,C: Cardiovascular system,Approved / Investigational
+Drug,225,0.86,DB01062,Oxybutynin,G: Genito-urinary system and sex hormones,Approved / Investigational
+Drug,226,0.86,DB06813,Pralatrexate,L: Antineoplastic and immunomodulating agents,Approved / Investigational
+Drug,227,0.86,DB00246,Ziprasidone,N: Nervous system,Approved
+Drug,228,0.86,DB00433,Prochlorperazine,N: Nervous system,Approved / Vet_approved
+Drug,229,0.86,DB11817,Baricitinib,L: Antineoplastic and immunomodulating agents,Approved / Investigational
+Drug,230,0.86,DB00374,Treprostinil,B: Blood and blood forming organs,Approved / Investigational
+Drug,231,0.86,DB00731,Nateglinide,A: Alimentary tract and metabolism,Approved / Investigational
+Drug,232,0.86,DB00402,Eszopiclone,N: Nervous system,Approved / Investigational
+Drug,233,0.86,DB00014,Goserelin,L: Antineoplastic and immunomodulating agents,Approved
+Drug,234,0.86,DB00310,Chlorthalidone,G: Genito-urinary system and sex hormones / C: Cardiovascular system,Approved
+Drug,235,0.86,DB08820,Ivacaftor,R: Respiratory system,Approved
+Drug,236,0.86,DB00324,Fluorometholone,C: Cardiovascular system / D: Dermatologicals / S: Sensory organs,Approved / Investigational
+Drug,237,0.86,DB06212,Tolvaptan,C: Cardiovascular system,Approved
+Drug,238,0.86,DB00394,Beclomethasone dipropionate,A: Alimentary tract and metabolism / D: Dermatologicals / R: Respiratory system,Approved / Investigational
+Drug,239,0.86,DB00270,Isradipine,C: Cardiovascular system,Approved / Investigational
+Drug,240,0.86,DB00775,Tirofiban,B: Blood and blood forming organs,Approved
+Drug,241,0.86,DB06216,Asenapine,N: Nervous system,Approved
+Drug,242,0.86,DB00968,Methyldopa,None,Approved
+Drug,243,0.86,DB09118,Stiripentol,N: Nervous system,Approved
+Drug,244,0.86,DB01339,Vecuronium,M: Musculo-skeletal system,Approved / Investigational
+Drug,245,0.86,DB01418,Acenocoumarol,B: Blood and blood forming organs,Approved / Investigational
+Drug,246,0.86,DB01587,Ketazolam,N: Nervous system,Approved
+Drug,247,0.86,DB00247,Methysergide,N: Nervous system,Approved
+Drug,248,0.86,DB06148,Mianserin,N: Nervous system,Approved / Investigational
+Drug,249,0.85,DB01249,Iodixanol,V: Various,Approved
+Drug,250,0.85,DB01116,Trimethaphan,C: Cardiovascular system,Approved / Investigational
+Drug,251,0.85,DB01100,Pimozide,N: Nervous system,Approved
+Drug,252,0.85,DB00833,Cefaclor,J: Antiinfectives for systemic use,Approved
+Drug,253,0.85,DB00274,Cefmetazole,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,254,0.85,DB00299,Penciclovir,J: Antiinfectives for systemic use / D: Dermatologicals,Approved
+Drug,255,0.85,DB00946,Phenprocoumon,B: Blood and blood forming organs,Approved / Investigational
+Drug,256,0.85,DB00350,Minoxidil,C: Cardiovascular system / D: Dermatologicals,Approved / Investigational
+Drug,257,0.85,DB00345,Aminohippuric acid,V: Various,Approved / Investigational
+Drug,258,0.85,DB01171,Moclobemide,N: Nervous system,Approved / Investigational
+Drug,259,0.85,DB06623,Flupirtine,N: Nervous system,Investigational
+Drug,260,0.85,DB12466,Favipiravir,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,261,0.85,DB01352,Aprobarbital,N: Nervous system,Experimental / Illicit
+Drug,262,0.85,DB00565,Cisatracurium,M: Musculo-skeletal system,Approved
+Drug,263,0.85,DB00760,Meropenem,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,264,0.85,DB00425,Zolpidem,N: Nervous system,Approved
+Drug,265,0.85,DB00631,Clofarabine,L: Antineoplastic and immunomodulating agents,Approved / Investigational
+Drug,266,0.85,DB06210,Eltrombopag,B: Blood and blood forming organs,Approved
+Drug,267,0.85,DB06292,Dapagliflozin,A: Alimentary tract and metabolism,Approved
+Drug,268,0.85,DB01333,Cefradine,J: Antiinfectives for systemic use,Approved
+Drug,269,0.85,DB00887,Bumetanide,G: Genito-urinary system and sex hormones / C: Cardiovascular system,Approved
+Drug,270,0.85,DB00344,Protriptyline,N: Nervous system,Approved
+Drug,271,0.85,DB01253,Ergometrine,G: Genito-urinary system and sex hormones,Approved
+Drug,272,0.85,DB00442,Entecavir,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,273,0.85,DB00897,Triazolam,N: Nervous system,Approved / Investigational
+Drug,274,0.85,DB01544,Flunitrazepam,N: Nervous system,Approved / Illicit
+Drug,275,0.85,DB09076,Umeclidinium,R: Respiratory system,Approved
+Drug,276,0.85,DB04574,Estrone sulfate,None,Approved
+Drug,277,0.85,DB11642,Pitolisant,N: Nervous system,Approved / Investigational
+Drug,278,0.85,DB00356,Chlorzoxazone,M: Musculo-skeletal system,Approved
+Drug,279,0.85,DB14060,NS-398,None,Experimental
+Drug,280,0.85,DB00728,Rocuronium,M: Musculo-skeletal system,Approved
+Drug,281,0.85,DB01264,Darunavir,J: Antiinfectives for systemic use / G: Genito-urinary system and sex hormones,Approved
+Drug,282,0.85,DB00585,Nizatidine,A: Alimentary tract and metabolism,Approved
+Drug,283,0.85,DB09401,Isosorbide,None,Approved / Investigational
+Drug,284,0.85,DB00196,Fluconazole,J: Antiinfectives for systemic use / D: Dermatologicals,Approved / Investigational
+Drug,285,0.85,DB09099,Somatostatin,"H: Systemic hormonal preparations, excluding sex hormones and insulins",Approved / Investigational
+Drug,286,0.85,DB00754,Ethotoin,N: Nervous system,Approved
+Drug,287,0.85,DB00234,Reboxetine,N: Nervous system,Approved / Experimental
+Drug,288,0.85,DB00418,Secobarbital,N: Nervous system,Approved / Vet_approved
+Drug,289,0.85,DB00932,Tipranavir,J: Antiinfectives for systemic use,Approved / Investigational
+Drug,290,0.85,DB01364,Ephedrine,C: Cardiovascular system / A: Alimentary tract and metabolism / R: Respiratory system / S: Sensory organs,Approved
+Drug,291,0.85,DB00721,Procaine,N: Nervous system / C: Cardiovascular system / S: Sensory organs,Approved / Investigational / Vet_approved
+Drug,292,0.84,DB01337,Pancuronium,M: Musculo-skeletal system,Approved
+Drug,293,0.84,DB00347,Trimethadione,N: Nervous system,Approved
+Drug,294,0.84,DB00318,Codeine,N: Nervous system / R: Respiratory system,Approved / Illicit
+Drug,295,0.84,DB00496,Darifenacin,G: Genito-urinary system and sex hormones,Approved / Investigational
+Drug,296,0.84,DB13868,Adefovir,None,Investigational
+Drug,297,0.84,DB01247,Isocarboxazid,N: Nervous system,Approved
+Drug,298,0.84,DB08827,Lomitapide,C: Cardiovascular system,Approved / Investigational
+Drug,299,0.84,DB00191,Phentermine,A: Alimentary tract and metabolism,Approved / Illicit
+Drug,300,0.84,DB00909,Zonisamide,N: Nervous system / G: Genito-urinary system and sex hormones,Approved / Investigational

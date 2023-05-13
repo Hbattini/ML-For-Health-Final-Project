@@ -1,0 +1,2 @@
+Do you know Parkinson's disease? Reply with a single binary answer "yes" or "no".
+What are the top 20 drugs that have been associated to Parkinson's disease 2 in clinical trials? Reply only with the table of drugs in a csv format delimited by commas and showing the DrugBank (Primary ID), and the Drug Name. No other text, or notes.

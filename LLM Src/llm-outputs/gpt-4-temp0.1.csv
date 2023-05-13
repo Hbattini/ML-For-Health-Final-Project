@@ -1,0 +1,21 @@
+Actual DrugBank ID,LLM Predicted DrugBank ID,Drug Name
+DB01235,DB01235,Levodopa
+DB01367,DB01244,Rasagiline
+DB00268,DB01248,Ropinirole
+DB01037,DB01250,Selegiline
+DB00323,DB01254,Tolcapone
+DB00494,DB01259,Entacapone
+DB00915,DB01260,Amantadine
+DB01200,DB01261,Bromocriptine
+DB00413,DB01262,Pramipexole
+DB05271,DB01263,Rotigotine
+DB06654,DB01264,Safinamide
+DB00714,DB01265,Apomorphine
+DB00190,DB01266,Carbidopa
+DB00245,DB01267,Benztropine
+DB01173,DB01268,Orphenadrine
+DB00387,DB01269,Procyclidine
+DB00376,DB01270,Trihexyphenidyl
+DB01186,DB01271,Pergolide
+DB00248,DB01272,Cabergoline
+DB00810,DB01273,Biperiden

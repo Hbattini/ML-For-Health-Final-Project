@@ -1,0 +1,21 @@
+Actual DrugBank ID,LLM Predicted DrugBank ID,Drug Name
+DB00915,DB00334,Amantadine
+DB01200,DB01235,Bromocriptine
+DB00494,DB00723,Entacapone
+DB01186,DB01074,Pergolide
+DB01037,DB00294,Selegiline
+DB01367,DB05271,Rasagiline
+DB00413,DB01106,Pramipexole
+DB00268,DB00623,Ropinirole
+DB06654,DB01275,Safinamide
+DB00323,DB01095,Tolcapone
+DB15059,DB00591,Aprocitentan
+DB01235,DB00437,L-Dopa
+DB11632,DB12612,Opicapone
+,DB00190,Levodopa/benserazide
+DB12818,DB09208,NM-3
+DB05105,DB09154,Pleconaril
+DB09120,DB04953,Zucapsaicin
+DB06264,DB01434,Tolperisone
+DB12798,DB11809,Relenopride
+DB00714,DB00181,Apomorphine
